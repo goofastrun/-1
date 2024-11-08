@@ -1,0 +1,4 @@
+[emulator]
+vfs_path = "C:/Users/Станислав/Desktop/DZ1_konfig-main/Конфигурационка1/filesystem.zip"
+log_file = "C:/Users/Станислав/Desktop/DZ1_konfig-main/Конфигурационка1/log.csv"
+
